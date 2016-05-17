@@ -1,0 +1,1 @@
+gcloud preview app deploy app.yaml --version 1 --project mq-cloud-prototyping-3 --no-promote
